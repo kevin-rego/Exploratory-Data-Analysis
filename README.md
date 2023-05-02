@@ -51,7 +51,7 @@ To get started with the project, follow these steps:
 
 The project repository contains the following files:
 
-- `exploratory_data_analysis.ipynb`: The main Jupyter Notebook file where the exploratory data analysis is performed.
+- `28thFeb.ipynb`: The main Jupyter Notebook file where the exploratory data analysis is performed.
 - `data`: A directory to store the dataset files (if multiple files are used).
 - `README.md`: The file you are currently reading, providing an overview of the project.
 
